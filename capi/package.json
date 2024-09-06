@@ -7,9 +7,9 @@
   "license": "Apache-2.0",
   "private": true,
   "dependencies": {
-    "chokidar": "^3.3.1",
+    "chokidar": "^3.5.2",
     "clone-deep": "^4.0.1",
-    "fast-glob": "^3.1.1",
+    "fast-glob": "^3.2.6",
     "front-matter": "^3.1.0",
     "fs-extra": "^8.1.0",
     "html-entities": "^1.2.1",
@@ -17,7 +17,7 @@
     "parse5": "^5.1.1",
     "prismjs": "^1.21.0",
     "traverse": "^0.6.6",
-    "ts-morph": "^6.0.2",
+    "ts-morph": "^12.0.0",
     "typescript": "^3.7.4"
   },
   "devDependencies": {
