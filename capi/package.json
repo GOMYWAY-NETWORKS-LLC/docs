@@ -7,7 +7,7 @@
   "license": "Apache-2.0",
   "private": true,
   "dependencies": {
-    "chokidar": "^3.3.1",
+    "chokidar": "^4.0.0",
     "clone-deep": "^4.0.1",
     "fast-glob": "^3.1.1",
     "front-matter": "^3.1.0",
